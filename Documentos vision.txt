@@ -1,3 +1,9 @@
 1-Objetivos generales
 
 2-Objetivos Especificos
+
+3. vision del proyecto
+
+4- requerimeintos funcionales
+
+5- requerimeintos no funcionales
